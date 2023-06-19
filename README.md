@@ -18,6 +18,7 @@ use this <https://www.debian.org/distrib/netinst>
 ```
 git clone https://github.com/Jayasurya-Marasani/Debian-install
 cd Debian-install
+chmod +x install.sh
 sudo ./install.sh
 ```
 
